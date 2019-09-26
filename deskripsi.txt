@@ -9,3 +9,9 @@ Modul
 - koperasi
 - Rki
 - Tracking
+Tim
+- Frontend : Miftah dan yusuf
+- Backend : Feri
+- Database : Waluyo dan ALkautsar
+- Ui: Idzul
+- BA : All
