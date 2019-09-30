@@ -1,5 +1,5 @@
 Modul modul Aplikasi:
 Simpan Pinjam : Web (ready), Android dan Ios
 Market Place : Web, Android, Ios
-Pos
+Pos : Web, Android, Ios
 Supply Chain
